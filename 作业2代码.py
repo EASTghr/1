@@ -48,4 +48,4 @@ def gailv(syl_a, syl_b, data):
 
 matrix = np.array([[5, 5], [9, 1], [8, 2], [4, 6], [7, 3]])#硬币正反面的数据
 
-xyg_a, xyg_b = gailv(0.7, 0.4, matrix)
+xyg_a, xyg_b = gailv(0.7, 0.4, matrix)   #初始化概率和数据
